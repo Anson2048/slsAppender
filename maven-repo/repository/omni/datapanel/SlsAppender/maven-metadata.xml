@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>omni.datapanel</groupId>
+  <artifactId>SlsAppender</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20160518102156</lastUpdated>
+  </versioning>
+</metadata>
